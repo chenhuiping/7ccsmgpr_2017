@@ -46,6 +46,5 @@
 1676112/1	Razzaq, Fiza	fiza.razzaq@kcl.ac.uk	Current	Computing And Security	
 1676490/1	Bayat, Masih	masih.bayat@kcl.ac.uk	Current	Advanced Software Engineering	
 1677428/1	Mosca, Francesca	francesca.mosca@kcl.ac.uk	Current	Intelligent Systems	
-1677449/1	Hashani, Gentrit	gentrit.hashani@kcl.ac.uk	Current	Computing And Security	
 1678493/1	Ardeshiri, Arsalan	arsalan.ardeshiri@kcl.ac.uk	Current	Advanced Software Engineering With Management	
 1678724/1	Jabir, Khalil	khalil.jabir@kcl.ac.uk	Current	Advanced Software Engineering	
